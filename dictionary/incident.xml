@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="email_client=true,all_tables.query_hints=true,query_hints=true,hasWorkflow=true,live_feed=true" audit="true" extends="task" label="インシデント" max_length="40" name="incident" sizeclass="7047" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Scope" max_length="100" name="x_snc_hr_catalog_u_scope" type="string"/>
+    </element>
+</database>
