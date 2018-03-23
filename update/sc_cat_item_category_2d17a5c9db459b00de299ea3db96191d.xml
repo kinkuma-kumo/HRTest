@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="住所変更">48d56589db459b00de299ea3db9619cd</sc_cat_item>
+        <sc_category display_value="Employee Data Management">d0d3da6fc3022200b599b4ad81d3ae9c</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-23 01:32:07</sys_created_on>
+        <sys_id>2d17a5c9db459b00de299ea3db96191d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Employee Data Management.住所変更</sys_name>
+        <sys_package display_value="HR Catalog Build" source="x_snc_hr_catalog_u">bea3a985db459b00de299ea3db961920</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HR Catalog Build">bea3a985db459b00de299ea3db961920</sys_scope>
+        <sys_update_name>sc_cat_item_category_2d17a5c9db459b00de299ea3db96191d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-23 01:32:07</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>

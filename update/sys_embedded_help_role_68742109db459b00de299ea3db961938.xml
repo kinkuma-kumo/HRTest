@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_snc_hr_catalog_u._user" name="x_snc_hr_catalog_u._user">64742109db459b00de299ea3db961935</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-23 01:20:34</sys_created_on>
+        <sys_id>68742109db459b00de299ea3db961938</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>64742109db459b00de299ea3db961935</sys_name>
+        <sys_package display_value="HR Catalog Build" source="x_snc_hr_catalog_u">bea3a985db459b00de299ea3db961920</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HR Catalog Build">bea3a985db459b00de299ea3db961920</sys_scope>
+        <sys_update_name>sys_embedded_help_role_68742109db459b00de299ea3db961938</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-23 01:20:34</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

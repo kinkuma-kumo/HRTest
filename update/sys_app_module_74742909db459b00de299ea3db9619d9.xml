@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="住所変更">f0742109db459b00de299ea3db96193d</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>住所変更s</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_snc_hr_catalog_u_address_change</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_snc_hr_catalog_u._user</roles>
+        <survey/>
+        <survey_overwrite>true</survey_overwrite>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-23 01:20:36</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>74742909db459b00de299ea3db9619d9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>住所変更s</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="HR Catalog Build" source="x_snc_hr_catalog_u">bea3a985db459b00de299ea3db961920</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HR Catalog Build">bea3a985db459b00de299ea3db961920</sys_scope>
+        <sys_update_name>sys_app_module_74742909db459b00de299ea3db9619d9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-23 01:20:36</sys_updated_on>
+        <timeline_page/>
+        <title>住所変更s</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
